@@ -3,11 +3,11 @@ This folder contains FINPLAN model files for aggregated renewable power plants u
 All FINPLAN model files are balanced. The input data and results for each file are also included.
 
 ## Contents
-- **vn_solgro:** solar (grounded)
-- **vn_solflo:** solar (floating)
-- **vn_winons:** wind (onshore)
-- **vn_winnea:** wind (near shore)
-- **vn_winoff:** wind (offshore)
+- **vn_sol_gro:** solar (grounded)
+- **vn_sol_flo:** solar (floating)
+- **vn_win_ons:** wind (onshore)
+- **vn_win_nea:** wind (near shore)
+- **vn_win_off:** wind (offshore)
 - **vn_bio:** biomass
 - **vn_wte:** waste-to-energy
 
